@@ -17,3 +17,7 @@ This GUI application imitates a website like Udemy.com where you can purchase co
 <h2>Program walk-through:</h2>
 
 - [Project Report](https://github.com/almazakhun/StoreGuiSqlDatabase/blob/main/Final%20Deliverable.pptx)
+
+<p align="center">
+Interface: <br/>
+<img src="https://i.imgur.com/nmpBfqD.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
