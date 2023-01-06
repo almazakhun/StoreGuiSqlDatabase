@@ -13,3 +13,7 @@ This GUI application imitates a website like Udemy.com where you can purchase co
 <h2>Environments Used </h2>
 
 - <b>NetBeans</b>
+
+<h2>Program walk-through:</h2>
+
+- [Project Report](https://github.com/almazakhun/StoreGuiSqlDatabase/blob/main/Final%20Deliverable.pptx)
